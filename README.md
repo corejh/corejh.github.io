@@ -1,4 +1,4 @@
-blueface
+blueface theme
 =====================
 
 ![https://s3.amazonaws.com/f.cl.ly/items/0W3I0t1L0y3Y1U3k1A2N/Screen%20Shot%202016-03-23%20at%2010.45.03.png](https://s3.amazonaws.com/f.cl.ly/items/0W3I0t1L0y3Y1U3k1A2N/Screen%20Shot%202016-03-23%20at%2010.45.03.png)
@@ -7,6 +7,6 @@ blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS 
 
 [Preview the theme!](http://thien.io/blueface)
 
-## Install
+## Run Local Server
 
-Fork, rename it to username.github.io and you're ready! (replace username with your username) Some important configuration can be done in ``_config.yml``. Do check the Setup section in that file.
+`bundle exec jekyll serve`

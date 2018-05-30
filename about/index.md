@@ -3,7 +3,7 @@ layout: default
 title: About blueface
 ---
 
-Playing with github's page feature. Site theme taken from [blueface][github] on GitHub
+Playing with github's page feature. Site theme taken from [blueface][github]
 
 > Find me on [github][my_github]
 
